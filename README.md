@@ -14,5 +14,5 @@ OWASP,
 Trivy.
 
 Project Stages:
-Stage 1 - Deployment of App to Docker Container
+Stage 1 - Deployment of App to Docker Container, 
 Stage 2 - Deployment of App to K8S Cluster with Monitoring
